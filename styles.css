@@ -10,7 +10,9 @@ header{
    background: chocolate;
 }
 .chamada{
-  background: brown;
+  background: rgb(216, 216, 28);
   padding-bottom: 100px;
   padding-top: 100px;
+  display: flex;
+  justify-content: center;
 }    
